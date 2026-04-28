@@ -1,0 +1,85 @@
+JobID,Department,JobRole,JobLevel,BusinessTravel
+1,Sales,Sales Executive,2,Travel_Rarely
+2,Research & Development,Research Scientist,2,Travel_Frequently
+3,Research & Development,Laboratory Technician,1,Travel_Rarely
+4,Research & Development,Research Scientist,1,Travel_Frequently
+5,Research & Development,Laboratory Technician,1,Travel_Frequently
+6,Research & Development,Manufacturing Director,3,Travel_Frequently
+7,Research & Development,Healthcare Representative,2,Travel_Rarely
+8,Research & Development,Laboratory Technician,2,Travel_Rarely
+9,Research & Development,Research Scientist,1,Travel_Rarely
+10,Research & Development,Manufacturing Director,3,Travel_Rarely
+11,Research & Development,Laboratory Technician,1,Non-Travel
+12,Sales,Manager,4,Travel_Rarely
+13,Research & Development,Manufacturing Director,2,Non-Travel
+14,Sales,Sales Representative,1,Travel_Rarely
+15,Research & Development,Research Director,3,Travel_Rarely
+16,Research & Development,Manager,5,Travel_Rarely
+17,Research & Development,Healthcare Representative,3,Travel_Rarely
+18,Sales,Manager,5,Travel_Rarely
+19,Sales,Sales Representative,2,Travel_Rarely
+20,Sales,Sales Executive,2,Travel_Frequently
+21,Sales,Sales Executive,3,Travel_Frequently
+22,Research & Development,Laboratory Technician,2,Travel_Frequently
+23,Research & Development,Research Director,5,Travel_Rarely
+24,Sales,Sales Executive,2,Non-Travel
+25,Research & Development,Laboratory Technician,3,Travel_Rarely
+26,Research & Development,Healthcare Representative,3,Non-Travel
+27,Research & Development,Research Director,3,Travel_Frequently
+28,Research & Development,Manufacturing Director,2,Travel_Rarely
+29,Sales,Sales Executive,3,Travel_Rarely
+30,Research & Development,Manager,4,Travel_Rarely
+31,Research & Development,Manufacturing Director,2,Travel_Frequently
+32,Research & Development,Research Scientist,3,Travel_Rarely
+33,Research & Development,Research Scientist,2,Travel_Rarely
+34,Human Resources,Human Resources,2,Travel_Rarely
+35,Research & Development,Research Scientist,2,Non-Travel
+36,Research & Development,Healthcare Representative,4,Travel_Frequently
+37,Research & Development,Healthcare Representative,3,Travel_Frequently
+38,Sales,Sales Executive,4,Travel_Rarely
+39,Research & Development,Laboratory Technician,2,Non-Travel
+40,Human Resources,Human Resources,1,Travel_Rarely
+41,Research & Development,Healthcare Representative,2,Non-Travel
+42,Human Resources,Manager,5,Non-Travel
+43,Research & Development,Research Director,5,Travel_Frequently
+44,Human Resources,Manager,4,Non-Travel
+45,Research & Development,Manager,3,Travel_Rarely
+46,Sales,Manager,4,Travel_Frequently
+47,Research & Development,Manager,4,Travel_Frequently
+48,Sales,Sales Representative,1,Travel_Frequently
+49,Research & Development,Research Scientist,1,Non-Travel
+50,Research & Development,Healthcare Representative,4,Travel_Rarely
+51,Research & Development,Manager,4,Non-Travel
+52,Research & Development,Manufacturing Director,3,Non-Travel
+53,Sales,Manager,3,Travel_Rarely
+54,Sales,Sales Executive,3,Non-Travel
+55,Sales,Manager,5,Non-Travel
+56,Research & Development,Manager,3,Non-Travel
+57,Research & Development,Research Director,3,Non-Travel
+58,Research & Development,Research Director,4,Travel_Rarely
+59,Research & Development,Healthcare Representative,2,Travel_Frequently
+60,Sales,Sales Executive,4,Travel_Frequently
+61,Research & Development,Laboratory Technician,3,Travel_Frequently
+62,Research & Development,Manager,3,Travel_Frequently
+63,Research & Development,Manager,5,Travel_Frequently
+64,Sales,Sales Representative,2,Travel_Frequently
+65,Sales,Sales Representative,1,Non-Travel
+66,Human Resources,Human Resources,3,Travel_Frequently
+67,Research & Development,Manufacturing Director,4,Travel_Rarely
+68,Human Resources,Human Resources,1,Travel_Frequently
+69,Human Resources,Manager,5,Travel_Frequently
+70,Human Resources,Human Resources,3,Travel_Rarely
+71,Human Resources,Manager,5,Travel_Rarely
+72,Research & Development,Manufacturing Director,4,Travel_Frequently
+73,Sales,Sales Executive,4,Non-Travel
+74,Sales,Manager,4,Non-Travel
+75,Research & Development,Research Director,5,Non-Travel
+76,Human Resources,Human Resources,2,Non-Travel
+77,Research & Development,Healthcare Representative,4,Non-Travel
+78,Sales,Manager,5,Travel_Frequently
+79,Human Resources,Human Resources,2,Travel_Frequently
+80,Human Resources,Manager,4,Travel_Rarely
+81,Research & Development,Research Director,4,Travel_Frequently
+82,Research & Development,Manufacturing Director,4,Non-Travel
+83,Human Resources,Human Resources,1,Non-Travel
+84,Research & Development,Manager,5,Non-Travel
